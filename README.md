@@ -1,6 +1,8 @@
 # 🦍 Donkey Kong Approval Stamper
 
-An innovative image-stamping GUI that lets you give any image the **Donkey Kong Stamp of Approval**, essential for any serious developer, photographer, or anyone who interfaces with digital devices.
+An innovative image-stamping GUI that lets you give any image the **Donkey Kong Stamp of Approval**. 
+
+Essential for any serious developer, photographer, or user of technology.
 
 Powered by Python, Pillow, Tkinter, and the simian conviction of Donkey Kong himself.
 
