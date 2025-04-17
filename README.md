@@ -11,7 +11,7 @@ A necessary tool for anyone who seriously uses a computer.
 - Saves the stamped image as `approved.png` in the working directory
 - GUI preview before and after stamping
 
-![App Screenshot](approval.png)
+  ![The App in Action](approved.png)
 
 ## 🧪 Tech Stack
 
