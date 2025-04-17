@@ -27,11 +27,3 @@ Powered by Python, Pillow, Tkinter, and the simian conviction of Donkey Kong him
 - Tkinter (built-in GUI)
 - **Donkey Kong PNG**
 
----
-
-## 🖼️ How to Use
-
-1. Clone this repo:
-   ```bash
-   git clone https://github.com/ZappatheHackka/donkey-kong-approval-stamper.git
-   cd donkey-kong-approval-stamper
