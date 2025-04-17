@@ -33,7 +33,7 @@ A necessary tool for anyone who seriously uses a computer.
 - Saves the stamped image as `approved.png` in the working directory
 - GUI preview before and after stamping
 
-  ![The App in Action](approved.png)
+  ![The App in Action](example.png)
 >>>>>>> 101b8a22d156068161ee4e5b72f790cadff9b662
 
 ## 🧪 Tech Stack
